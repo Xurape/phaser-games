@@ -19,7 +19,10 @@ const config = {
 const game = new Phaser.Game(config);
 
 function preload() {
-
+    this.loadimage('spaceship', 'sprites/spaceship.png');
+    this.loadimage('bullet', 'sprites/bullet.png');
+    this.loadimage('enemy_1', 'sprites/enemy_1.png');
+    this.loadimage('enemy_2', 'sprites/enemy_2.png');
 }
 
 function create() {
