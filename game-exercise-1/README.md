@@ -26,8 +26,8 @@ npm i
 ```bash
 # Segundo o que usamos no passo anterior, podemos usar qualquer um dos seguintes:
 npx vite # para npm
-yarn vite # para yarn
-bunx vite # para bun
+# yarn vite (para yarn)
+# bunx vite (para bun)
 ```
 
 5. Abrir o jogo
