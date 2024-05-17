@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "vite"
+  },
   "dependencies": {
     "phaser": "3.80.1",
     "vite": "^5.2.11"
